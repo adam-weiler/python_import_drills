@@ -8,3 +8,6 @@ print(four())
 
 from art.even_more_art.images import five
 print(five())
+
+from scene import six
+print(six())
